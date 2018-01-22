@@ -1,0 +1,138 @@
+C:\Users\Neri\Desktop\Farmacias\Farmacias\bin\Debug\Farmacias.exe
+C:\Users\Neri\Desktop\Farmacias\Farmacias\bin\Debug\Farmacias.pdb
+C:\Users\Neri\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Properties.Resources.resources
+C:\Users\Neri\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.csproj.GenerateResource.Cache
+C:\Users\Neri\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.exe
+C:\Users\Neri\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.pdb
+C:\Users\Neri\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Forma_X.resources
+C:\Users\Neri\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.csprojResolveAssemblyReference.cache
+C:\Users\Neri\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Gerente.resources
+C:\Users\Neri\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Forma_Consultas.resources
+C:\Users\Neri\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Vendedor.resources
+C:\Users\Neri\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Ventas.resources
+C:\Users\Neri\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.login.resources
+D:\BackUp\ITT\Cuarto semestre\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.exe
+D:\BackUp\ITT\Cuarto semestre\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.pdb
+D:\BackUp\ITT\Cuarto semestre\Topicos avanzados de programacion\Farmacias\Farmacias\bin\Debug\Farmacias.exe
+D:\BackUp\ITT\Cuarto semestre\Topicos avanzados de programacion\Farmacias\Farmacias\bin\Debug\Farmacias.pdb
+D:\BackUp\ITT\Cuarto semestre\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.csprojResolveAssemblyReference.cache
+D:\BackUp\ITT\Cuarto semestre\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Forma_Consultas.resources
+D:\BackUp\ITT\Cuarto semestre\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Forma_X.resources
+D:\BackUp\ITT\Cuarto semestre\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Gerente.resources
+D:\BackUp\ITT\Cuarto semestre\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.login.resources
+D:\BackUp\ITT\Cuarto semestre\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Properties.Resources.resources
+D:\BackUp\ITT\Cuarto semestre\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Vendedor.resources
+D:\BackUp\ITT\Cuarto semestre\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Ventas.resources
+D:\BackUp\ITT\Cuarto semestre\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.csproj.GenerateResource.Cache
+C:\Users\Neri\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.exe
+C:\Users\Neri\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.pdb
+C:\Users\FelipeNeri\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.exe
+C:\Users\FelipeNeri\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.pdb
+C:\Users\FelipeNeri\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\bin\Debug\Farmacias.exe
+C:\Users\FelipeNeri\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\bin\Debug\Farmacias.pdb
+C:\Users\FelipeNeri\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.csprojResolveAssemblyReference.cache
+C:\Users\FelipeNeri\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.ConsultaVentas.resources
+C:\Users\FelipeNeri\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Forma_Consultas.resources
+C:\Users\FelipeNeri\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Forma_X.resources
+C:\Users\FelipeNeri\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Gerente.resources
+C:\Users\FelipeNeri\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.login.resources
+C:\Users\FelipeNeri\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Properties.Resources.resources
+C:\Users\FelipeNeri\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Vendedor.resources
+C:\Users\FelipeNeri\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Ventas.resources
+C:\Users\FelipeNeri\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.csproj.GenerateResource.Cache
+C:\Users\Jesus\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\bin\Debug\Farmacias.exe
+C:\Users\Jesus\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\bin\Debug\Farmacias.pdb
+C:\Users\Jesus\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.ConsultaVentas.resources
+C:\Users\Jesus\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Forma_Consultas.resources
+C:\Users\Jesus\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Forma_X.resources
+C:\Users\Jesus\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Gerente.resources
+C:\Users\Jesus\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.GerenteVentas.resources
+C:\Users\Jesus\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.login.resources
+C:\Users\Jesus\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Properties.Resources.resources
+C:\Users\Jesus\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Vendedor.resources
+C:\Users\Jesus\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Ventas.resources
+C:\Users\Jesus\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.csproj.GenerateResource.Cache
+C:\Users\Jesus\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.exe
+C:\Users\Jesus\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.pdb
+C:\Users\Jesus\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.csprojResolveAssemblyReference.cache
+C:\Users\FelipeNeri\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.GerenteVentas.resources
+C:\Users\Jesus\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Receta.resources
+C:\Users\NeriKN\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.exe
+C:\Users\NeriKN\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.pdb
+C:\Users\NeriKN\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\bin\Debug\Farmacias.exe
+C:\Users\NeriKN\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\bin\Debug\Farmacias.pdb
+C:\Users\NeriKN\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.csprojResolveAssemblyReference.cache
+C:\Users\NeriKN\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.ConsultaVentas.resources
+C:\Users\NeriKN\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Forma_Consultas.resources
+C:\Users\NeriKN\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Forma_X.resources
+C:\Users\NeriKN\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Gerente.resources
+C:\Users\NeriKN\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.GerenteVentas.resources
+C:\Users\NeriKN\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.login.resources
+C:\Users\NeriKN\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Properties.Resources.resources
+C:\Users\NeriKN\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Receta.resources
+C:\Users\NeriKN\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Vendedor.resources
+C:\Users\NeriKN\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Ventas.resources
+C:\Users\NeriKN\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.csproj.GenerateResource.Cache
+C:\Users\FelipeNeri\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Receta.resources
+C:\Users\Neri\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\bin\Debug\Farmacias.exe
+C:\Users\Neri\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\bin\Debug\Farmacias.pdb
+C:\Users\Neri\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.csprojResolveAssemblyReference.cache
+C:\Users\Neri\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.ConsultaVentas.resources
+C:\Users\Neri\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Forma_Consultas.resources
+C:\Users\Neri\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Forma_X.resources
+C:\Users\Neri\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Gerente.resources
+C:\Users\Neri\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.GerenteVentas.resources
+C:\Users\Neri\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.login.resources
+C:\Users\Neri\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Properties.Resources.resources
+C:\Users\Neri\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Receta.resources
+C:\Users\Neri\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Vendedor.resources
+C:\Users\Neri\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Ventas.resources
+C:\Users\Neri\Dropbox\Topicos avanzados de programacion\Farmacias\Farmacias\obj\x86\Debug\Farmacias.csproj.GenerateResource.Cache
+C:\Users\ricar\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.exe
+C:\Users\ricar\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.pdb
+C:\Users\ricar\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.csprojResolveAssemblyReference.cache
+C:\Users\ricar\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.ConsultaVentas.resources
+C:\Users\ricar\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Forma_Consultas.resources
+C:\Users\ricar\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Forma_X.resources
+C:\Users\ricar\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Gerente.resources
+C:\Users\ricar\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.GerenteVentas.resources
+C:\Users\ricar\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.login.resources
+C:\Users\ricar\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Properties.Resources.resources
+C:\Users\ricar\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Receta.resources
+C:\Users\ricar\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Vendedor.resources
+C:\Users\ricar\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Ventas.resources
+C:\Users\ricar\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.csproj.GenerateResource.Cache
+C:\Users\ricar\Desktop\Farmacias\Farmacias\bin\Debug\Farmacias.exe
+C:\Users\ricar\Desktop\Farmacias\Farmacias\bin\Debug\Farmacias.pdb
+C:\Users\Jesus\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.exe
+C:\Users\Jesus\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.pdb
+C:\Users\Jesus\Desktop\Farmacias\Farmacias\bin\Debug\Farmacias.exe
+C:\Users\Jesus\Desktop\Farmacias\Farmacias\bin\Debug\Farmacias.pdb
+C:\Users\Jesus\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.ConsultaVentas.resources
+C:\Users\Jesus\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Forma_Consultas.resources
+C:\Users\Jesus\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Forma_X.resources
+C:\Users\Jesus\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Gerente.resources
+C:\Users\Jesus\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.GerenteVentas.resources
+C:\Users\Jesus\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.login.resources
+C:\Users\Jesus\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Properties.Resources.resources
+C:\Users\Jesus\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Receta.resources
+C:\Users\Jesus\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Vendedor.resources
+C:\Users\Jesus\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.Ventas.resources
+C:\Users\Jesus\Desktop\Farmacias\Farmacias\obj\x86\Debug\Farmacias.csproj.GenerateResource.Cache
+C:\Users\Jesus\Desktop\Farmacias - SinOpenCLose\Farmacias\obj\x86\Debug\Farmacias.exe
+C:\Users\Jesus\Desktop\Farmacias - SinOpenCLose\Farmacias\obj\x86\Debug\Farmacias.pdb
+C:\Users\Jesus\Desktop\Farmacias - SinOpenCLose\Farmacias\bin\Debug\Farmacias.exe
+C:\Users\Jesus\Desktop\Farmacias - SinOpenCLose\Farmacias\bin\Debug\Farmacias.pdb
+C:\Users\Jesus\Desktop\Farmacias - SinOpenCLose\Farmacias\obj\x86\Debug\Farmacias.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\Desktop\Farmacias - SinOpenCLose\Farmacias\obj\x86\Debug\Farmacias.ConsultaVentas.resources
+C:\Users\Jesus\Desktop\Farmacias - SinOpenCLose\Farmacias\obj\x86\Debug\Farmacias.Forma_Consultas.resources
+C:\Users\Jesus\Desktop\Farmacias - SinOpenCLose\Farmacias\obj\x86\Debug\Farmacias.Forma_X.resources
+C:\Users\Jesus\Desktop\Farmacias - SinOpenCLose\Farmacias\obj\x86\Debug\Farmacias.Gerente.resources
+C:\Users\Jesus\Desktop\Farmacias - SinOpenCLose\Farmacias\obj\x86\Debug\Farmacias.GerenteVentas.resources
+C:\Users\Jesus\Desktop\Farmacias - SinOpenCLose\Farmacias\obj\x86\Debug\Farmacias.login.resources
+C:\Users\Jesus\Desktop\Farmacias - SinOpenCLose\Farmacias\obj\x86\Debug\Farmacias.Properties.Resources.resources
+C:\Users\Jesus\Desktop\Farmacias - SinOpenCLose\Farmacias\obj\x86\Debug\Farmacias.Receta.resources
+C:\Users\Jesus\Desktop\Farmacias - SinOpenCLose\Farmacias\obj\x86\Debug\Farmacias.Vendedor.resources
+C:\Users\Jesus\Desktop\Farmacias - SinOpenCLose\Farmacias\obj\x86\Debug\Farmacias.Ventas.resources
+C:\Users\Jesus\Desktop\Farmacias - SinOpenCLose\Farmacias\obj\x86\Debug\Farmacias.csproj.GenerateResource.Cache
